@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Marcos Antonio 👋
 
-- 🌱 Estou estudando Python e Linux
+- 🌱 Estou estudando Python e JavaScript
 - 😄 Pronome: ele/dele
 ##
 <div>
