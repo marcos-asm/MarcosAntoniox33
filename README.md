@@ -1,12 +1,11 @@
 ### Olá! Eu sou a Marcos Antonio 👋
 
-- 🌱 Estou estudando Python e JavaScript
-- 😄 Pronome: ele/dele
+
 ##
 <div>
   <a href="https://github.com/MarcosAntoniox33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosAntoniox33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntoniox33&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-asm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-asm&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
